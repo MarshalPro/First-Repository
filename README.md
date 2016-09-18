@@ -9,8 +9,8 @@ git config --global --edit
 --------- RESULT --------------------
 
 [user]
-	name = Marshal Pro
-	email = marshal.programmer@gmail.com
+	name = Marsh.........
+	email = marsh.........mmer@gmail.com
 [color]
 	ui = auto
 [core]
@@ -24,3 +24,5 @@ This is a new line
 This is another line from Notepad++
 
 Another Another Another line
+
+Another line from github online text editer
