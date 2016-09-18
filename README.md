@@ -20,3 +20,5 @@ git config --global --edit
 ---------------------------------------------------------------------------------------------------------------
 
 This is a new line
+
+This is another line from Notepad++
